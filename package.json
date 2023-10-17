@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pacifiquem/HealthTrack.git"
+    "url": "git+https://github.com/Ernor1/HealthTrackProPlus"
   },
   "keywords": [
     "health-track",
@@ -30,9 +30,9 @@
   "author": "MURANGWA Pacifique",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pacifiquem/HealthTrack/issues"
+    "url": "https://github.com/Ernor1/HealthTrackProPlus/issues"
   },
-  "homepage": "https://github.com/pacifiquem/HealthTrack#readme",
+  "homepage": "https://github.com/Ernor1/HealthTrackProPlus#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
